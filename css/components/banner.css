@@ -1,0 +1,21 @@
+.banner{
+  background-image: url(/images/Stats.png);
+  background-size: contain;
+  padding: 155px 0;
+}
+
+.banner h1{
+    font-size: 60px;
+    position: absolute;
+    top: 0px;
+    left: 351px;
+    color: white;
+}
+.banner p{
+  position: absolute;
+  top: 98px;
+  width: 40px;
+  font-size: 23px;
+      left: 351px;
+    color: white;
+}
